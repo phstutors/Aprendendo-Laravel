@@ -1,4 +1,4 @@
-<h1>Lista do Usuario: {{$user->name}}</h1>
+<h1>Dados do Usuario: {{$user->name}}</h1>
 
 <ul>
 
